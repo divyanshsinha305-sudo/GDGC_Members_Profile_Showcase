@@ -11,7 +11,7 @@ This README is GitHub-ready and uses simple HTML for styling where helpful (titl
 
 ## Project Structure
 
-```text
+```
 GDGC-Member-Showcase/
 │
 ├── frontend/
@@ -23,7 +23,7 @@ GDGC-Member-Showcase/
     ├── package.json
     ├── members.json
     └── server.js
-````
+```
 
 ---
 
@@ -45,7 +45,7 @@ GDGC-Member-Showcase/
 
 ## Data Format (members.json)
 
-```json
+```
 [
   {
     "id": 1,
