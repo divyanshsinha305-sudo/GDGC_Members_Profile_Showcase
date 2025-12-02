@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>GDGC Members — Divyansh</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+    <div id="splash" class="splash">
+        <div class="logo">
+            <div class="logo-circle">GDGC</div>
+            <h1>GDGC Member Showcase</h1>
+        </div>
+    </div>
+
+    <main id="app" class="hidden">
+        <header class="topbar">
+            <h2>Members</h2>
+            <div>
+                <button id="themeToggle" class="btn">Toggle</button>
+            </div>
+        </header>
+
+        <section class="controls">
+            <input id="search" placeholder="Search by name or bio..." />
+            <select id="roleFilter">
+                <option value="">All roles</option>
+            </select>
+            <input id="skillsFilter" placeholder="Skills (comma separated)" />
+        </section>
+
+        <section id="status" class="status"></section>
+
+        <section id="grid" class="grid"></section>
+    </main>
+    <script src="java.js"></script>
+</body>
+
+</html>

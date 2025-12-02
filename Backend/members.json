@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Ankit Verma",
+    "role": "Frontend Developer",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "bio": "I enjoy building clean user interfaces and learning new CSS effects.",
+    "location": "Patna, Bihar",
+    "avatar": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 2,
+    "name": "Priya Singh",
+    "role": "Backend Developer",
+    "skills": ["Python", "Flask", "MySQL"],
+    "bio": "I like designing small APIs and understanding data flow.",
+    "location": "Bhopal, MP",
+    "avatar": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 3,
+    "name": "Rohit Kumar",
+    "role": "Full Stack Intern",
+    "skills": ["HTML", "CSS", "JavaScript", "Python"],
+    "bio": "Learning full stack development and building useful small projects.",
+    "location": "Patna, Bihar",
+    "avatar": "https://i.pravatar.cc/150?img=8"
+  }
+]
