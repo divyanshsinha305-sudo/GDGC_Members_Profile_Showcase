@@ -45,8 +45,6 @@ GDGC-Member-Showcase/
 
 ## Data Format (members.json)
 
-Place `members.json` inside `/backend`. Example structure — adjust fields as needed:
-
 ```json
 [
   {
