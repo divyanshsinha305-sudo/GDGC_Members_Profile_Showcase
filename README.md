@@ -71,3 +71,11 @@ GDGC-Member-Showcase/
 Make sure each member has a unique `id`. The backend reads this file and returns JSON responses.
 
 ---
+##Result:
+
+<img width="1575" height="759" alt="image" src="https://github.com/user-attachments/assets/4fcebee7-ddf9-4246-98a2-d9c4ae8c3032" />
+
+
+
+
+
